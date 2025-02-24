@@ -1,4 +1,4 @@
-package Lopping;
+package looping;
 
 public class While {
 	public static void main(String[] args) {

@@ -7,7 +7,7 @@ public class Array2 {
 		    System.out.println("Enter");
             Scanner sc = new Scanner(System.in);
             String [] arr = new String[3];
-            
+            sc.close();
             for(int i=0;i<arr.length;i++) 
             	arr[i]=sc.next();
             //for (String a: arr)
