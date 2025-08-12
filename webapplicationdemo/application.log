@@ -1,0 +1,62 @@
+Jul 25, 2025 1:24:37 PM com.sanjay.assignment.ProgramController addProgram
+INFO: Program added: AI
+Jul 25, 2025 1:24:37 PM com.sanjay.assignment.ProgramController addProgram
+INFO: Program added: ML
+Jul 25, 2025 1:24:37 PM com.sanjay.assignment.ProgramController addProgram
+INFO: Program added: DL
+Jul 25, 2025 1:24:37 PM com.sanjay.assignment.ProgramController addProgram
+INFO: Program added: CV
+Jul 25, 2025 1:24:37 PM com.sanjay.assignment.ProgramController addProgram
+INFO: Program added: NLP
+Jul 25, 2025 1:24:37 PM com.sanjay.assignment.ProgramController getProgram
+WARNING: Failed to retrieve program
+java.lang.Exception: Program with ID 102 not found.
+	at com.sanjay.assignment.ProgramController.getProgram(ProgramController.java:26)
+	at com.sanjay.assignment.DemoProgram.main(DemoProgram.java:19)
+
+Jul 25, 2025 1:24:37 PM com.sanjay.assignment.ProgramController getProgram
+WARNING: Failed to retrieve program
+java.lang.Exception: Program with ID 999 not found.
+	at com.sanjay.assignment.ProgramController.getProgram(ProgramController.java:26)
+	at com.sanjay.assignment.DemoProgram.main(DemoProgram.java:25)
+
+Jul 25, 2025 1:26:05 PM com.sanjay.assignment.ProgramController addProgram
+INFO: Program added: AI
+Jul 25, 2025 1:26:05 PM com.sanjay.assignment.ProgramController addProgram
+INFO: Program added: ML
+Jul 25, 2025 1:26:05 PM com.sanjay.assignment.ProgramController addProgram
+INFO: Program added: DL
+Jul 25, 2025 1:26:05 PM com.sanjay.assignment.ProgramController addProgram
+INFO: Program added: CV
+Jul 25, 2025 1:26:05 PM com.sanjay.assignment.ProgramController addProgram
+INFO: Program added: NLP
+Jul 25, 2025 1:26:05 PM com.sanjay.assignment.ProgramController getProgram
+WARNING: Failed to retrieve program
+java.lang.Exception: Program with ID 102 not found.
+	at com.sanjay.assignment.ProgramController.getProgram(ProgramController.java:26)
+	at com.sanjay.assignment.DemoProgram.main(DemoProgram.java:19)
+
+Jul 25, 2025 1:26:05 PM com.sanjay.assignment.ProgramController getProgram
+WARNING: Failed to retrieve program
+java.lang.Exception: Program with ID 999 not found.
+	at com.sanjay.assignment.ProgramController.getProgram(ProgramController.java:26)
+	at com.sanjay.assignment.DemoProgram.main(DemoProgram.java:25)
+
+Jul 25, 2025 1:30:25 PM com.sanjay.assignment.ProgramController addProgram
+INFO: Program added: AI
+Jul 25, 2025 1:30:25 PM com.sanjay.assignment.ProgramController addProgram
+INFO: Program added: ML
+Jul 25, 2025 1:30:25 PM com.sanjay.assignment.ProgramController addProgram
+INFO: Program added: DL
+Jul 25, 2025 1:30:25 PM com.sanjay.assignment.ProgramController addProgram
+INFO: Program added: CV
+Jul 25, 2025 1:30:25 PM com.sanjay.assignment.ProgramController addProgram
+INFO: Program added: NLP
+Jul 25, 2025 1:30:25 PM com.sanjay.assignment.ProgramController getProgram
+INFO: Retrieved program with ID: 201
+Jul 25, 2025 1:30:25 PM com.sanjay.assignment.ProgramController getProgram
+WARNING: Failed to retrieve program
+java.lang.Exception: Program with ID 999 not found.
+	at com.sanjay.assignment.ProgramController.getProgram(ProgramController.java:26)
+	at com.sanjay.assignment.DemoProgram.main(DemoProgram.java:25)
+

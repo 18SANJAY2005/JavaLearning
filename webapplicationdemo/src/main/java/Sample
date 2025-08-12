@@ -1,0 +1,68 @@
+{
+  "program_name": 
+  "report_date": 
+  "program_manager": 
+  "status_summary": {
+    "overall_status": 
+    "key_highlights": 
+    "key_risks": [
+      {
+        "risk": 
+        "mitigation_plan": 
+      },
+      {
+        "risk": 
+        "mitigation_plan":
+      }
+    ],
+    "dependencies": [
+      {
+        "dependency": 
+        "status": 
+      },
+      {
+        "dependency": 
+        "status": 
+      }
+    ]
+  },
+  "milestones": [
+    {
+      "name": 
+      "target_date": 
+      "actual_date": 
+      "status": 
+    },
+    {
+      "name": 
+      "target_date": 
+      "actual_date": 
+      "status": 
+    },
+    {
+      "name": 
+      "target_date": 
+      "status": 
+    }
+  ],
+  "action_items": [
+    {
+      "item": 
+      "owner": 
+      "due_date": 
+      "status": 
+    },
+    {
+      "item": 
+      "owner": 
+      "due_date": 
+      "status": 
+    }
+  ],
+  "leadership_support_needed": [
+    {
+      "issue": 
+      "requested_support": 
+    }
+  ]
+}
